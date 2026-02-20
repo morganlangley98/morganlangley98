@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I head up Data Science and Geospatial Analysis at Earth Active, managing the technical workflows for large-scale environmental projects, building internal tools, and architecting scalable enterprise data ecosystems.
 
 Interested in all things tech, especially relating to biodiviversity monitoring.
