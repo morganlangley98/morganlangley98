@@ -1,3 +1,3 @@
-Data Scientist / Geospatial Data Scientist at Earth Active, managing the technical workflows for large-scale environmental projects, building internal tools, and architecting scalable enterprise data ecosystems.
+I’m a Data Scientist at Earth Active, working on large‑scale ecological and environmental projects. I manage technical workflows, build internal tools, and design scalable data ecosystems that help consultancies work smarter and at scale.
 
-Interested in all things geospatial, automation, and tech, especially relating to nature and the world we live in.
+I’m especially interested in geospatial analytics, automation, and applied technology, with a focus on supporting nature‑positive and environmentally meaningful work.
